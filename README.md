@@ -1,2 +1,1 @@
-# smart_lib
-smartLib
+# smartLib
